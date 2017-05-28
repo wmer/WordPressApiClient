@@ -2,11 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace WordPressApiClient
-{
-    public class Class1
-    {
+namespace WordPressApiClient {
+    public class WpApiClient {
     }
 }
